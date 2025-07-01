@@ -1,19 +1,15 @@
 # icosane
 
-<div style="display: flex; align-items: center;">
-    <span>
-    <p>Python developer with experience in PyQt and SQL. Skilled in working with scientific computing libraries like NumPy, SciPy and pandas. </p> 
-    <p> Passionate about building applications with well-structured UI and backend logic. Familiar with machine learning tools like TensorFlow and have a strong understanding of system performance optimization and hardware components.
-    </p>
-    <h2>Technical skills</h2>
-    <li> Programming languages: Python, Dart</li>
-    <li> Frameworks: Django, PyQt, QFluentWidgets, Flutter </li>
-    <li> Libraries: Pandas, NumPy, SciPy, whisper  </li>
-    <li> Version control systems: Git </li>
-    <li> CI/CD: Github Actions
-    <li> Platforms: Windows, Android  </li>
-    </span>
-</div>
+Python developer with experience in PyQt and SQL. Skilled in working with scientific computing libraries like NumPy, SciPy and pandas.
+Passionate about building applications with well-structured UI and backend logic. Familiar with machine learning tools like TensorFlow and have a strong understanding of system performance optimization and hardware components.
+
+## Technical skills
+- Programming languages: Python
+- Frameworks: Django, PyQt, QFluentWidgets
+- Libraries: Pandas, NumPy, SciPy, whisper
+- Version control systems: Git
+- CI/CD: Github Actions
+- Platforms: Windows
 
 ## Education
 ### Saratov State University named after N.G. Chernyshevsky
