@@ -1,5 +1,3 @@
-# icosane
-
 Python developer with experience in PyQt and SQL. Skilled in working with scientific computing libraries like NumPy, SciPy and pandas.
 Passionate about building applications with well-structured UI and backend logic. Familiar with machine learning tools like TensorFlow and have a strong understanding of system performance optimization and hardware components.
 
