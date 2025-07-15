@@ -78,4 +78,4 @@ Roles: Software Developer, UI Designer
 ## Contacts
 
 As this is hosted online, to protect my privacy I omitted some info. Also, these are not my main emails for the same reason, but I'm checking them from time to time.
-### <div markdown="1" align="center"> [email#1](mailto:yureruhimawari@outlook.com)     [email#2](mailto:yureruhimawarii@naver.com)     [telegram](https://t.me/icosane)     [github](https://github.com/icosane) </div>
+### [email#1](mailto:yureruhimawari@outlook.com)     [email#2](mailto:yureruhimawarii@naver.com)     [telegram](https://t.me/icosane)     [github](https://github.com/icosane) 
