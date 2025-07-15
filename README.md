@@ -1,7 +1,8 @@
-## About me
+# icosane
 
 Python developer with experience in PyQt and SQL. Skilled in working with scientific computing libraries like NumPy, SciPy and pandas.
-Passionate about building applications with well-structured UI and backend logic. Familiar with machine learning tools like TensorFlow and have a strong understanding of system performance optimization and hardware components.
+Passionate about building applications with well-structured UI and backend logic. Familiar with machine learning tools like TensorFlow and have a strong understanding of system performance optimization and hardware components. 
+Have experience in developing graphical user interfaces (GUIs) for various tools, including working with and integrating different local neural networks.
 
 ## Technical skills
 - Programming languages: Python
@@ -71,13 +72,14 @@ Roles: Software Developer, UI Designer
 ### [Alyssum](https://github.com/icosane/Alyssum) (Python, PyQt5, Argos Translate, QFluentWidgets, Tesseract)
 
 - GUI for Argos Translate
-- Supports OCR input via Tesseract (wip)
+- Supports OCR input via Tesseract
+- Configurable shortcuts
 
 
 ## Contacts
 
 As this is hosted online, to protect my privacy I omitted some info. Also, these are not my main emails for the same reason, but I'm checking them from time to time.
-#### E-mail: yureruhimawari@outlook.com
-#### E-mail #2: yureruhimawarii@naver.com
+#### [E-mail](yureruhimawari@outlook.com)
+#### [E-mail #2](yureruhimawarii@naver.com)
 #### Telegram: [@icosane](https://t.me/icosane)
 #### Github: https://github.com/icosane
