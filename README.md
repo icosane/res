@@ -30,7 +30,7 @@ Roles: Software Developer, UI Designer
 
 - Designed and implemented the program architecture and core functionality. 
 - Developed a user-friendly UI using PyQt.
-- Designed and optimized a SQLite database for efficient data handling.
+- Designed and optimized an SQLite database for efficient data handling.
 - Clarified project requirements and collaborated with stakeholders.
 - Resolved numerous bugs, enhancing the app's stability.
 
