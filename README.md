@@ -78,7 +78,7 @@ Roles: Software Developer, UI Designer
 ## Contacts
 
 As this is hosted online, to protect my privacy I omitted some info. Also, these are not my main emails for the same reason, but I'm checking them from time to time.
-#### [E-mail](yureruhimawari@outlook.com)
-#### [E-mail #2](yureruhimawarii@naver.com)
+#### [E-mail](mailto:yureruhimawari@outlook.com)
+#### [E-mail #2](mailto:yureruhimawarii@naver.com)
 #### Telegram: [@icosane](https://t.me/icosane)
 #### Github: https://github.com/icosane
