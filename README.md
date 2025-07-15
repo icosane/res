@@ -32,7 +32,7 @@ Roles: Software Developer, UI Designer
 - Developed a user-friendly UI using PyQt.
 - Designed and optimized a SQLite database for efficient data handling.
 - Clarified project requirements and collaborated with stakeholders.
-- Debugged and fixed 20+ bugs, improving app stability.
+- Resolved numerous bugs, enhancing the app's stability.
 
 #### Tech stack: Python, PyQt5, pandas, numpy, SQLite, pyinstaller, Inno Setup
 
