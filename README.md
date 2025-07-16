@@ -22,6 +22,15 @@ Have experience in developing graphical user interfaces (GUIs) for various tools
 
 ## Experience
 
+### SSU named after N.G. Chernyshevsky, Engineer (trainee)
+#### 2022.09 - 2024.06
+- Conducted research on diagnosing generalized synchronization modes in coupled systems, which involved analyzing complex attractor topologies.
+- Designed and implemented a simple neural network for image recognition, enabling the classification of various chaotic systems based on their phase portraits.
+- Utilized advanced data analysis techniques to interpret phase portraits and enhance the neural network's performance in recognizing chaotic behavior.
+- Demonstrated strong problem-solving skills by addressing challenges in chaotic system classification and optimizing neural network architecture for improved accuracy.
+
+#### Tech stack: Python, PyQt5, Tensorflow
+
 ### JSC Saratov-Ptitsa, developer
 #### 2024.02 - 2025.02
 Project: Automating data processing and planning. (Food industry) 
