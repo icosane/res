@@ -77,11 +77,12 @@ Roles: Software Developer, UI Designer
 - Optimized for NVIDIA GPUs, with CPU support for smaller models
 - Fully operational offline after downloading required models
 
-### [Alyssum](https://github.com/icosane/Alyssum) (Python, PyQt5, Argos Translate, QFluentWidgets, Tesseract)
+### [Alyssum](https://github.com/icosane/Alyssum) (Python, PyQt5, Argos Translate, QFluentWidgets, Tesseract, argos-translate-files)
 
 - GUI for Argos Translate
 - Supports OCR input via Tesseract
 - Configurable shortcuts
+- File Translation (**.txt**, **.odt**, **.odp**, **.docx**, **.pptx**, **.epub**, **.html**, **.srt**, and **.pdf**)
 
 
 ## Contacts
