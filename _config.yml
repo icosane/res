@@ -5,3 +5,4 @@ plugins:
 minima:
   skin: dark
   github_username: icosane
+  author: ""
