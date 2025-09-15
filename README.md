@@ -104,5 +104,4 @@ Project: Automation of data processing and planning (Food industry)
 
 ## Contacts
 
-As this is hosted online, to protect my privacy I omitted some info. Also, these are not my main emails for the same reason, but I'm checking them from time to time.
 ### 📧 [email](mailto:horowheattail@gmail.com) │ 💬 [telegram](https://t.me/suzutsukki) │ 💻 [github](https://github.com/icosane)
