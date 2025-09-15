@@ -1,4 +1,4 @@
-[🇬🇧 English](/README) | [🇷🇺 Русский](/README.ru)
+[🇬🇧 English](./) | [🇷🇺 Русский](./ru)
 
 # Summary
 Python Developer with experience in PyQt and SQL. Skilled in designing applications with well-structured UIs and efficient backend logic. Proficient in scientific computing libraries (NumPy, SciPy, pandas) and experienced with machine learning frameworks (TensorFlow, faster-whisper, Argos Translate). Strong understanding of system performance optimization and hardware components.
