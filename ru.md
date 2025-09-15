@@ -1,4 +1,4 @@
-[🇬🇧 English](/README) | [🇷🇺 Русский](/README.ru)
+[🇬🇧 English](./) | [🇷🇺 Русский](./ru)
 
 ## О себе
 
