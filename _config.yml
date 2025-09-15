@@ -1,8 +1,8 @@
 remote_theme: jekyll/minima
+name: ""
+title: null
 plugins:
   - jekyll-remote-theme
   - kramdown
 minima:
   skin: dark
-  github_username: icosane
-  author: ""
