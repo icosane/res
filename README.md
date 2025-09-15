@@ -1,20 +1,23 @@
-# About me
-Python developer with experience in PyQt and SQL. Skilled in working with scientific computing libraries like NumPy, SciPy and pandas.
-Passionate about building applications with well-structured UI and backend logic. Familiar with machine learning tools like TensorFlow and have a strong understanding of system performance optimization and hardware components. 
-Have experience in developing graphical user interfaces (GUIs) for various tools, including working with and integrating different local neural networks.
+[🇬🇧 English](/README) | [🇷🇺 Русский](/README.ru)
+
+# Summary
+Python Developer with experience in PyQt and SQL. Skilled in designing applications with well-structured UIs and efficient backend logic. Proficient in scientific computing libraries (NumPy, SciPy, pandas) and experienced with machine learning frameworks (TensorFlow, faster-whisper, Argos Translate). Strong understanding of system performance optimization and hardware components.
+
+Experienced in developing graphical user interfaces (GUIs) for software tools and integrating local neural network models. Hands-on with large language models including ChatGPT, Deepseek, and Qwen (cloud-based and locally deployed). Skilled in image generation using Stable Diffusion and Illustrious.
 
 ## Technical skills
 - Programming languages: Python
 - Frameworks: Django, PyQt, QFluentWidgets
-- Libraries: Pandas, NumPy, SciPy, whisper
+- Libraries: Pandas, NumPy, SciPy, whisper, Argos Translate, Coqui TTS
 - Version control systems: Git
 - CI/CD: Github Actions
+- Databases: SQLite
 - Platforms: Windows
 
 ## Education
 ### Saratov State University named after N.G. Chernyshevsky
-- 2018 - 2022, Institute of Physics, «Information systems and technologies», Bachelor's degree
-- 2022 - 2024, Institute of Physics, «Information Systems and Technologies», Master's degree.
+- **Bachelor’s Degree** – Information Systems and Technologies, Institute of Physics (2018–2022)
+- **Master’s Degree** – Information Systems and Technologies, Institute of Physics (2022–2024)
 
 ## Languages
 - English: C2 (Proficient)
@@ -22,70 +25,84 @@ Have experience in developing graphical user interfaces (GUIs) for various tools
 
 ## Experience
 
-### SSU named after N.G. Chernyshevsky, Engineer (trainee)
+### **Engineer (Trainee)** – Saratov State University
 #### 2022.09 - 2024.06
-- Conducted research on diagnosing generalized synchronization modes in coupled systems, which involved analyzing complex attractor topologies.
+- Conducted research on diagnosing generalized synchronization modes in coupled systems by analyzing complex attractor topologies.
 - Designed and implemented a simple neural network for image recognition, enabling the classification of various chaotic systems based on their phase portraits.
-- Utilized advanced data analysis techniques to interpret phase portraits and enhance the neural network's performance in recognizing chaotic behavior.
-- Demonstrated strong problem-solving skills by addressing challenges in chaotic system classification and optimizing neural network architecture for improved accuracy.
+- Applied advanced data analysis techniques to interpret phase portraits and improve neural network performance.
+- Optimized model architecture to enhance classification accuracy in chaotic system recognition.
 
 #### Tech stack: Python, PyQt5, Tensorflow
 
-### JSC Saratov-Ptitsa, developer
+### **Software Developer** – JSC Saratov-Ptitsa
 #### 2024.02 - 2025.02
-Project: Automating data processing and planning. (Food industry) 
+Project: Automation of data processing and planning (Food industry)
 
-Roles: Software Developer, UI Designer
-
-- Designed and implemented the program architecture and core functionality. 
-- Developed a user-friendly UI using PyQt.
+- Designed and implemented program architecture and core functionality. 
+- Built a user-friendly UI with PyQt.
 - Designed and optimized an SQLite database for efficient data handling.
 - Clarified project requirements and collaborated with stakeholders.
-- Resolved numerous bugs, enhancing the app's stability.
+- Debugged and optimized the application, significantly improving stability.
 
 #### Tech stack: Python, PyQt5, pandas, numpy, SQLite, pyinstaller, Inno Setup
 
+---
+
 ## Projects
 
-### [esoragoto](https://github.com/icosane/esoragoto) (Python, Django, Heroku)
+### [Alyssum](https://github.com/icosane/Alyssum) – Offline Translator (Python, PyQt5, Argos Translate, QFluentWidgets, Tesseract)
 
-- Web app using Kuramoto’s model for real-time simulations.
-- Backend handles dynamic visualization and synchronization models.
-- Hosted on Heroku
+* Full offline translation of text, documents, books, and on-screen content.
+* Integrated OCR with Tesseract for images and PDFs.
+* Voice input with faster-whisper.
+* Configurable shortcuts for all major actions.
+* File translation support for for `.txt`, `.odt`, `.odp`, `.docx`, `.pptx`, `.epub`, `.html`, `.srt`, and `.pdf`.
+* Browser extension for inline translation.
+* GPU acceleration support for NVIDIA cards.
 
-### [vervain](https://github.com/icosane/vervain) (Python, PyQt5, Tensorflow)
+---
 
-- Win32 app simulating dynamic models (Rössler, Lorenz, Chen).
-- Utilizes TensorFlow-based image recognition to detect synchronization from phase portraits.
+### [Alstroemeria](https://github.com/icosane/alstroemeria) – Subtitle and Voiceover Creation Tool (Python, PyQt6, faster-whisper, Argos Translate, Coqui TTS)
 
-### [aubretia](https://github.com/icosane/aubretia) (Dart, Flutter)
+* Transcription using faster-whisper.
+* Subtitle translation via Argos Translate.
+* Voiceover generation with Coqui TTS.
+* Optimized for GPU acceleration with CPU fallback.
+* Fully operational offline after model download.
 
-- Android prototype for image search with an intuitive UI.
+---
 
-### [eustoma](https://github.com/icosane/eustoma) (Python, PyQt6, faster-whisper, QFluentWidgets)
+### [Eustoma](https://github.com/icosane/eustoma) – Speech-to-Text App (Python, PyQt6, faster-whisper, QFluentWidgets)
 
-- Speech to text app
-- Powered by SYSTRAN's faster-whisper for voice transcription
-- Uses zhiyiYo's QFluentWidgets for UI
-- Configured to use CUDA to run on GPU, but may run on CPU
+* Speech-to-text transcription with SYSTRAN’s faster-whisper.
+* Built with QFluentWidgets for a modern UI.
+* CUDA acceleration with CPU support.
 
-### [alstroemeria](https://github.com/icosane/alstroemeria) (Python, PyQt6, faster-whisper, Argos Translate, Coqui TTS, QFluentWidgets)
- 
-- Subtitle creation using faster-whisper for video transcription
-- Subtitle translation available through Argos Translate for multiple languages
-- Voiceover generation from subtitles using Coqui TTS
-- Optimized for NVIDIA GPUs, with CPU support for smaller models
-- Fully operational offline after downloading required models
+---
 
-### [Alyssum](https://github.com/icosane/Alyssum) (Python, PyQt5, Argos Translate, QFluentWidgets, Tesseract, argos-translate-files)
+### [Vervain](https://github.com/icosane/vervain) – Dynamic Model Simulator (Python, PyQt5, TensorFlow)
 
-- GUI for Argos Translate
-- Supports OCR input via Tesseract
-- Configurable shortcuts
-- File Translation (**.txt**, **.odt**, **.odp**, **.docx**, **.pptx**, **.epub**, **.html**, **.srt**, and **.pdf**)
+* Win32 desktop app simulating Rössler, Lorenz, and Chen models.
+* TensorFlow-based image recognition to detect synchronization from phase portraits.
+
+---
+
+### [Esoragoto](https://github.com/icosane/esoragoto) – Web App (Python, Django, Heroku)
+
+* Real-time simulations using Kuramoto’s model.
+* Backend for dynamic visualization and synchronization models.
+* Deployed on Heroku.
+
+---
+
+### [Aubretia](https://github.com/icosane/aubretia) – Image Search App Prototype (Dart, Flutter)
+
+* Prototype mobile app for intuitive image search.
+
+---
 
 
 ## Contacts
 
 As this is hosted online, to protect my privacy I omitted some info. Also, these are not my main emails for the same reason, but I'm checking them from time to time.
-### [email#1](mailto:yureruhimawari@outlook.com)     [email#2](mailto:yureruhimawarii@naver.com)     [telegram](https://t.me/icosane)     [github](https://github.com/icosane) 
+### 📧 [email](mailto:horowheattail@gmail.com) │ 💬 [telegram](https://t.me/suzutsukki) │ 💻 [github](https://github.com/icosane)
