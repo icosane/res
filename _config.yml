@@ -4,3 +4,4 @@ plugins:
   - kramdown
 minima:
   skin: dark
+  github_username: icosane
